@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(127, 55, 160);
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: xx-large;
+}
+h2{
+    height: 500px;
+    width: 70px;
+}
+.fullScreenFrame > div {
+    display: flex;
+    justify-content: center;
+}
