@@ -1,4 +1,4 @@
 pypiwin32==223
 win10toast==0.9
 streamlit==0.67.1
-Pillow==7.2.0
+Pillow==7.0.0
